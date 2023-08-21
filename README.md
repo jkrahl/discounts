@@ -1,9 +1,4 @@
-
-
-
-
-
-# Table of contents
+# Discounts for Students
 
 * [Collective discounts](#collective-discounts)
 * [Electronic devices](#electronic-devices)
@@ -12,16 +7,9 @@
 * [Developer Services](#developer-services)
 * [Music](#music)
 * [Shipping](#shipping)
-* [Insurance](#insurance)
 * [Newspaper Subscription](#newspaper-subscription)
-* [Hotel](#hotel)
 * [Travel](#travel)
-* [Food](#food)
-* [Apparel](#apparel)
 * [Vehicles](#vehicles)
-* [Courses](#courses)
-* [Entertainment](#entertainment)
-* [Lens and spectacles](#lens-and-spectacles)
 * [Web hosting](#web-hosting)
 * [Domain name](#domain-name)
 
@@ -37,77 +25,53 @@
 
 * [Amazon Prime Student](https://www.amazon.com/Amazon-Student/b?node=668781011): a six-month trial that includes Free Two-Day Shipping, unlimited streaming of Amazon Prime movies and TV shows, unlimited photo storage with Amazon Prime Photos, 20% off pre-order and new release video games, exclusive deals and savings, and more! 50% off after the six-month trial period
 
-* [Microsoft Imagine](https://imagine.microsoft.com/en-us/Catalog/Product/99): pack of Microsoft cloud services like Azure, for deploying projects, free for students.
-
 # Electronic devices
 
-* [Apple](http://store.apple.com/us/browse/campaigns/education_pricing): Students and educators save 5% off most purchases; save up to $200 on a new Mac or a new iPad with Apple's Education pricing.
+* [Apple](https://www.apple.com/us-edu/store): Save on Mac or iPad for college.
 
-* [Microsoft](https://www.microsoft.com/en-us/education/students/default.aspx): Save up to $194 on a Surface Pro 3, get 10% off accessories, and get special pricing on software.
+* [Microsoft](https://www.microsoft.com/en-us/store/b/education): Save on Microsoft Laptops.
 
-* [Adobe](https://www.apple.com/us-hed/shop): Full-time students can receive discounts on software like 60% off Creative Cloud
+* [Dell](https://www.dell.com/es-es/lp/students): offers discounts on laptops, desktops, and more
 
-* [Dell](http://www.dell.com/learn/us/en/6099/campaigns/welcome-to-dell-university): offers discounts on laptops, desktops, and more
-
-* [Lenovo](): Lenovo has an Academic Purchase Program that offers student discounts on laptops, tablets, and desktop computers. Discounts vary depending on your school.
-
-* [Sony](http://store.sony.com/gsi/webstore/WFS/SNYNA-SNYUS-Site/en_US/-/USD/ViewPurchasePrograms-EDULandingPage): Through Sony Student Store membership, get 10% off merchandise
+* [Lenovo](https://www.lenovo.com/es/es/registro-tienda-estudiantes/): Student discounts on laptops, tablets, and desktop computers.
 
 * [Logitech](https://buy.logitech.com/store/logieu/en_GB/custom/pbPage.student-discount): Students can get 25% off purchases at Logitech.com
 
 # Productivity apps
 
-* [Evernote](https://evernote.com/students/): One year of the premium plan for 50% off
+* [Evernote](https://evernote.com/intl/es/unidays): 40% off on Evernote
 
-* [Microsoft Office 365](https://www.microsoft.com/en-in/education/students/default.aspx): Free for students
+* [Microsoft Office 365](https://www.microsoft.com/en-in/education/students): Free for students
 
-* [Ulysses](https://ulysses.app/students/): Almost 50% on a subscription
+* [Ulysses](https://ulysses.app/students/): $10.99 Per 6 Months
 
 # Software
 
-### Version control
+* [Tower](https://www.git-tower.com/education/windows): Version control with git.
 
-* [Tower](http://www.git-tower.com/buy): Version control with git. Students get a 50% discount
+* [GitKraken PRO](https://www.gitkraken.com/github-student-developer-pack): Free via GitHub Student Developer Pack
 
-* [GitKraken PRO](https://www.gitkraken.com/github-student-developer-pack): Free for 1 year via GitHub Student Developer Pack
+* [Sketch](https://www.sketch.com/education/): Get Sketch for free as a student
 
-### Design and modeling tools
-
-* [Sketch](https://backend.bohemiancoding.com/store/edu/): 50% off on an educational license
-
-* [Axure RP](http://www.axure.com/edu): Free educational license of Axure RP Pro
+* [Axure RP](http://www.axure.com/edu): Free Subscriptions for Students and Teachers
 
 * [Vertabelo](https://my.vertabelo.com/sign-up/create-academic): Free academic accounts for students
 
-* [Framer](http://framerjs.com/pricing/): 50% off on an educational license
+* [Lucidchart](https://www.lucidchart.com/pages/usecase/education): Free professional software for DFDs, flowcharts, organisational charts, website wireframes, UML designs, mind maps, software prototypes, and many other diagram types (Use learner college student id to get unlimited access)
 
-* [Lucidchart](https://www.lucidchart.com/pages/usecase/education): Free professional software for DFDs,flowcharts, organisational charts, website wireframes, UML designs, mind maps, software prototypes, and many other diagram types (Use learner college student id to get unlimited access)
+* [Canva](https://www.canva.com/education/students/): Create amazing designs, documents and presentations in minutes for all your creative projects and studying needs.
 
-* [Canva](https://www.canva.com/education/students/)
+* [Figma](https://www.figma.com/education/): Free as a student
 
-* [Figma](https://www.figma.com/education/)
+* [Unity3D](https://unity.com/products/unity-student): Free for students
 
-### Game Development Tools
-
- * [Unity3D](https://unity3d.com/education): Students are offered a yearly license for $100 USD
-
- * [Unreal Game Engine](https://www.unrealengine.com/education): Free through Github Student Developer Pack
-
-## IDE and Code Editing
-
-* [Intel® Parallel Studio XE 2015](https://software.intel.com/en-us/qualify-for-free-software/student): Free for students
-
-* [Xamarin IDE](http://xamarin.com/student): Free for students
+* [Unreal Game Engine](https://www.unrealengine.com/students): Free for students
 
 * [Bootstrap Studio](https://bootstrapstudio.io/pages/student-license): Free for students
 
-* [JetBrains Pack](https://www.jetbrains.com/student/): Free professional IDEs for C/C++/Python/Java/JS/PHP/Ruby/etc for students
+* [JetBrains Pack](https://www.jetbrains.com/community/education/#students): Free professional IDEs for C/C++/Python/Java/JS/PHP/Ruby/etc for students
 
-### 3D Animation and Modeling Software
-
- * [Autodesk Entertainment Creation Suite Ultimate](https://www.autodesk.com/education/edu-software/overview): 3-Year free License for students
-
-### Visual Analytics
+* [Autodesk Entertainment Creation Suite Ultimate](https://www.autodesk.com/education/edu-software/overview): One-year educational access to Autodesk products and services
 
 * [CartoDB](https://cartodb.com/solutions/education-and-research/): Additional space & features for free accounts or 20% discount on paid accounts
 
@@ -117,23 +81,19 @@
 
 # Developer Services
 
-* [HackHands](https://hackhands.com/education/): $25 in platform credit to students via Github Student Developer Pack
+* [AWS Educate](https://aws.amazon.com/education/awseducate/): Free for students
 
-* [Amazon Web Services](http://www.awseducate.com/application): free by joining AWS Educate today
-
-* [Send Grid](https://sendgrid.com/partner/github-education): 15K free emails/month (normally limited to 200 free emails/day) via Github Student Developer Pack
+* [Send Grid](https://sendgrid.com/partner/github-education): 15K free emails/month via Github Student Developer Pack
 
 * [Adobe Creative Cloud](http://www.adobe.com/creativecloud/buy/students.html): 60% off for students
 
-* [Domino Cloud Environment](https://www.dominodatalab.com/domino-for-good/for-students/): free computational power to work on data science projects
+* [Azure](https://azureforeducation.microsoft.com/en-us/Institutions): Azure Dev Tools.
 
 # Music
 
-* [Spotify](https://www.spotify.com/us/student/): $4.99/month for students
+* [Spotify](https://www.spotify.com/student/): $5.99/month for students
 
 * [Apple Music](https://support.apple.com/en-us/HT205928): Discount for 4 years
-
-* [Cascio Interstate Music](http://www.interstatemusic.com/): 10% off orders over $69
 
 * [Ableton Live](https://www.ableton.com/en/shop/education/#eligibility): 40% Discont for full time students 
 
@@ -141,103 +101,25 @@
 
 * [FedEx](http://www.fedex.com/kr_english/about/local/currentattractions/sdc.html): Discount of 30% off a document with FedEx Envelop/Pak and 20% off a package with FedEx IP service
 
-# Insurance
-
-* [StateFarm](https://www.statefarm.com/insurance/auto/discounts/): 25% off on keeping good grades
-
-* [Geico](https://www.geico.com/save/discounts/student-discounts/): Students under 25 with good grades can get up to a 15% discount
-
 # Newspaper Subscription
 
-* [Wall Street Journal](https://buy.wsj.com/shopandbuy/order/subscribe.jsp?trackCode=aaqntppp): $49 a year
-
-* [NewYork Times](https://www.nytimes.com/subscriptions/edu/lp8LQFK.html): $1 a week
-
-* [Economist](https://subscription.economist.com/DE/EngCore/Ecom/Default): Discount varies on plan
-
-# Hotel
-
-* [Planet Hollywood](https://www.caesars.com/planet-hollywood): 15% off on rooms
-
-* [Harrah's Laughlin](https://www.totalrewards.com/reserve/): 15% off on bookings
+* [Economist](https://subscribenow.economist.com/student): Study smarter with 75% off
 
 # Travel
 
-* [Eurail](http://www.eurail.com/eurail-passes/deals-discounts/youth-discounts): 35% off the regular Adult Fare for students under 25
-
-* [Amtrak](http://www.amtrak.com/student-discount): 10% off on train and bus service
-
-* [Budget Truck Rental](https://www.budgettruck.com/): Up to 20% off truck rental
-
-* [METROLINK](http://www.metrolinktrains.com/ticketspricing/page/title/discounts): 25% off Monthly Pass, 7-Day Pass, One-Way and Round-Trip tickets
-
-# Food
-
-* [Arby's](#): Offers a 10% discount at certain locations with your student ID
-
-* [Buffalo Wild Wings](#): Get a 10% discount off those flaming wings with your student ID
-
-* [Burger King](#): 10% discount when you flash your ID
-
-* [Chick-fil-A](#): Get a free small drink to accompany your chicken sandwich and waffle fries (or any meal) when you show your ID
-
-* [Chipotle](#): Offers a free small drink with your meal when you show your student ID
-
-* [Dairy Queen](#): Offers a 10% discount for students with ID.
-
-* [McDonalds](#): 10% discount with your student ID
-
-* [Qdoba](#): Offers a free drink for students when you purchase a meal, as well as burrito meals for $5
-
-# Apparel
-
-* [Alex and Ani](#): Students get 10% off in stores with a when you flash a valid school ID.
-
-* [ASOS](#): Stay stylish with 10% off ASOS duds
-
-* [Banana Republic](#): 15% off
-
-* [Club Monaco](#): 20% off regular and sale priced items in any Club Monaco store and online
-
-* [Goodwill](#): 10% discount with student ID
-
-* [TOMS](#): 10% cash back on shoes
-
-* [Topshop](#): 10% off Topshop apparel in stores and online
+* [Interrail](https://www.interrail.eu/es/interrail-passes/deals/interrail-youth-discounts): Ahorra dinero si tienes 27 años o menos
 
 # Vehicles
 
-* [Chevrolet](http://www.chevrolet.com/discounts): Discounts available on selected models for professors and students
-
-* [GM](https://www.gmcollegediscount.com/vehicles/): Discounts available on selected models of 3 brands
-
-# Courses
-
-* [Faltiron School](https://flatironschool.com/): Free one-month membership ($149 value) to Community-Powered Bootcamp
-
-* [Thinkful](https://www.thinkful.com/): One month of access to a web development course
-
-# Entertainment
-
-* [Cinemark](http://www.cinemark.com/discounts-student-discounts): Get discounts on movie tickets; 25% OFF pre-paid movie tickets through SA card
-
-* [Regal Cinemas](https://www.regmovies.com/help/entry/student-discount): Find local theaters offering student discounts
-
-# Lens and spectacles
-
-* [Glasses USA](https://www.glassesusa.com/students-discount): 55% off frames with clear single-vision lenses
-
-* [Lenstore.co.uk](https://www.lenstore.co.uk/unidays-student-discount): 15% off on the first order
+* [GM](https://www.gmcollegeappreciation.com/vehicles/): Discounts available on selected models
 
 # Web Hosting
 
-* [Digital Ocean](https://www.digitalocean.com): Provides $50 in hosting credit for every student that signs up for the Github Student Developer Pack
-
-* [Gwiddle](https://gwiddle.co.uk): Provides hosting for 2 websites, 5 mail accounts, 4 MySQL DBs, 4 cron jobs, 1.5GB bandwidth, and 2GB diskspace free to verified students.
+* [Digital Ocean](https://www.digitalocean.com/landing/do-for-higher-education): Provides $200 in hosting credit.
 
 * [RoseHosting](https://www.rosehosting.com): Offers a recurring 20% discount on all their managed Linux VPS and Shared hosting plans when paying monthly. Students can use the discount by applying the coupon code STUDENT20.
 
 # Domain Name
 
-* [NameCheap](http://nc.me): One year of free domain name registration on the .me TLD ($18.99/year) via Github Student Developer Pack
+* [NameCheap](http://nc.me): One year of free domain name registration on the .me TLD
 
