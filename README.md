@@ -20,11 +20,11 @@
 
 # Collective discounts
 
-* [International Student Identity Card](https://www.isic.org/): Any full-time student over 12 years old qualifies for 42,000 discounts in 130 countries
+* [International Student Identity Card](https://www.isic.org/): Any full-time student over 12 years old qualifies for 42.000 discounts in 130 countries
 
 * [GitHub Student Developer Pack](https://education.github.com/): Discounts on several software products offered through Github
 
-* [AWS Educate](https://aws.amazon.com/es/education/awseducate/): credits to access AWS services for free. Free labs on services such as EC2, S3, and others
+* [AWS Educate](https://aws.amazon.com/education/awseducate/): credits to access AWS services for free. Free labs on services such as EC2, S3, and others
 
 * [Microsoft Education](https://www.microsoft.com/en-in/education/students): Free Microsoft Office 365 and other discounts on MS products
 
@@ -110,7 +110,7 @@
 
 # Music
 
-* [Spotify](https://www.spotify.com/student/): $5.99/month for students
+* [Spotify](https://www.spotify.com/student/): 5,99 €/month for students.
 
 * [Apple Music](https://support.apple.com/en-us/HT205928): Discount for 4 years
 
