@@ -9,6 +9,7 @@
 * [IDEs](#ides)
 * [Visual Analytics](#visual-analytics)
 * [Developer Services](#developer-services)
+* [Entertainment](#entertainment)
 * [Music](#music)
 * [Shipping](#shipping)
 * [Newspaper Subscription](#newspaper-subscription)
@@ -42,6 +43,8 @@
 * [Logitech](https://buy.logitech.com/store/logieu/en_GB/custom/pbPage.student-discount): Students can get 25% off purchases at Logitech.com
 
 # Productivity apps
+
+* [Notion](https://www.notion.so/product/notion-for-education): Unlimited pages & blocks, file uploads, and 30 day version history.
 
 * [Evernote](https://evernote.com/intl/es/unidays): 40% off on Evernote
 
@@ -100,6 +103,10 @@
 * [Adobe Creative Cloud](http://www.adobe.com/creativecloud/buy/students.html): 60% off for students
 
 * [Azure](https://azureforeducation.microsoft.com/en-us/Institutions): Azure Dev Tools.
+
+# Entertainment
+
+* [YouTube Premium](https://www.youtube.com/premium): 6,99 €⁠/⁠month for students.
 
 # Music
 
