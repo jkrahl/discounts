@@ -3,7 +3,11 @@
 * [Collective discounts](#collective-discounts)
 * [Electronic devices](#electronic-devices)
 * [Productivity apps](#productivity-apps)
-* [Software](#software)
+* [Git tools](#git-tools)
+* [Design and modeling tools](#design-and-modeling-tools)
+* [Game Development Tools](#game-development-tools)
+* [IDEs](#ides)
+* [Visual Analytics](#visual-analytics)
 * [Developer Services](#developer-services)
 * [Music](#music)
 * [Shipping](#shipping)
@@ -45,11 +49,13 @@
 
 * [Ulysses](https://ulysses.app/students/): $10.99 Per 6 Months
 
-# Software
+# Git tools
 
 * [Tower](https://www.git-tower.com/education/windows): Version control with git.
 
 * [GitKraken PRO](https://www.gitkraken.com/github-student-developer-pack): Free via GitHub Student Developer Pack
+
+# Design and modeling tools
 
 * [Sketch](https://www.sketch.com/education/): Get Sketch for free as a student
 
@@ -63,15 +69,21 @@
 
 * [Figma](https://www.figma.com/education/): Free as a student
 
+* [Autodesk Entertainment Creation Suite Ultimate](https://www.autodesk.com/education/edu-software/overview): One-year educational access to Autodesk products and services
+
+# Game Development Tools
+
 * [Unity3D](https://unity.com/products/unity-student): Free for students
 
 * [Unreal Game Engine](https://www.unrealengine.com/students): Free for students
+
+# IDEs
 
 * [Bootstrap Studio](https://bootstrapstudio.io/pages/student-license): Free for students
 
 * [JetBrains Pack](https://www.jetbrains.com/community/education/#students): Free professional IDEs for C/C++/Python/Java/JS/PHP/Ruby/etc for students
 
-* [Autodesk Entertainment Creation Suite Ultimate](https://www.autodesk.com/education/edu-software/overview): One-year educational access to Autodesk products and services
+# Visual Analytics
 
 * [CartoDB](https://cartodb.com/solutions/education-and-research/): Additional space & features for free accounts or 20% discount on paid accounts
 
