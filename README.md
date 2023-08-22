@@ -25,7 +25,7 @@
 
 * [AWS Educate](https://aws.amazon.com/es/education/awseducate/): credits to access AWS services for free. Free labs on services such as EC2, S3, and others
 
-* [Microsoft Education](https://www.microsoft.com/en-in/education/students): Free Micrsoft Office 365 and other discounts on MS products
+* [Microsoft Education](https://www.microsoft.com/en-in/education/students): Free Microsoft Office 365 and other discounts on MS products
 
 * [Amazon Prime Student](https://www.amazon.com/Amazon-Student/b?node=668781011): a six-month trial that includes Free Two-Day Shipping, unlimited streaming of Amazon Prime movies and TV shows, unlimited photo storage with Amazon Prime Photos, 20% off pre-order and new release video games, exclusive deals and savings, and more! 50% off after the six-month trial period
 
@@ -63,7 +63,7 @@
 
 * [Vertabelo](https://my.vertabelo.com/sign-up/create-academic): Free academic accounts for students
 
-* [Lucidchart](https://www.lucidchart.com/pages/usecase/education): Free professional software for DFDs, flowcharts, organisational charts, website wireframes, UML designs, mind maps, software prototypes, and many other diagram types (Use learner college student id to get unlimited access)
+* [Lucidchart](https://www.lucidchart.com/pages/usecase/education): Free professional software for DFDs, flowcharts, organizational charts, website wireframes, UML designs, mind maps, software prototypes, and many other diagram types (Use learner college student id to get unlimited access)
 
 * [Canva](https://www.canva.com/education/students/): Create amazing designs, documents and presentations in minutes for all your creative projects and studying needs.
 
@@ -107,7 +107,7 @@
 
 * [Apple Music](https://support.apple.com/en-us/HT205928): Discount for 4 years
 
-* [Ableton Live](https://www.ableton.com/en/shop/education/#eligibility): 40% Discont for full time students 
+* [Ableton Live](https://www.ableton.com/en/shop/education/#eligibility): 40% Discount for full time students 
 
 # Shipping
 
@@ -119,7 +119,7 @@
 
 # Travel
 
-* [Interrail](https://www.interrail.eu/es/interrail-passes/deals/interrail-youth-discounts): Ahorra dinero si tienes 27 años o menos
+* [Interrail](https://www.interrail.eu/es/interrail-passes/deals/interrail-youth-discounts): Save money traveling through Europe
 
 # Vehicles
 
