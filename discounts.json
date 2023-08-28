@@ -1,0 +1,272 @@
+[
+    {
+        "category": "Collective discounts",
+        "name": "International Student Identity Card",
+        "url": "https://www.isic.org/",
+        "description": "Any full-time student over 12 years old qualifies for 42.000 discounts in 130 countries"
+    },
+    {
+        "category": "Collective discounts",
+        "name": "GitHub Student Developer Pack",
+        "url": "https://education.github.com/",
+        "description": "Discounts on several software products offered through Github"
+    },
+    {
+        "category": "Collective discounts",
+        "name": "AWS Educate",
+        "url": "https://aws.amazon.com/education/awseducate/",
+        "description": "credits to access AWS services for free. Free labs on services such as EC2, S3, and others"
+    },
+    {
+        "category": "Collective discounts",
+        "name": "Microsoft Education",
+        "url": "https://www.microsoft.com/en-in/education/students",
+        "description": "Free Microsoft Office 365 and other discounts on MS products"
+    },
+    {
+        "category": "Collective discounts",
+        "name": "Amazon Prime Student",
+        "url": "https://www.amazon.com/Amazon-Student/b?node=668781011",
+        "description": "a six-month trial that includes Free Two-Day Shipping, unlimited streaming of Amazon Prime movies and TV shows, unlimited photo storage with Amazon Prime Photos, 20% off pre-order and new release video games, exclusive deals and savings, and more! 50% off after the six-month trial period"
+    },
+    {
+        "category": "Electronic devices",
+        "name": "Apple",
+        "url": "https://www.apple.com/us-edu/store",
+        "description": "Save on Mac or iPad for college."
+    },
+    {
+        "category": "Electronic devices",
+        "name": "Microsoft",
+        "url": "https://www.microsoft.com/en-us/store/b/education",
+        "description": "Save on Microsoft Laptops."
+    },
+    {
+        "category": "Electronic devices",
+        "name": "Dell",
+        "url": "https://www.dell.com/es-es/lp/students",
+        "description": "offers discounts on laptops, desktops, and more"
+    },
+    {
+        "category": "Electronic devices",
+        "name": "Lenovo",
+        "url": "https://www.lenovo.com/es/es/registro-tienda-estudiantes/",
+        "description": "Student discounts on laptops, tablets, and desktop computers."
+    },
+    {
+        "category": "Electronic devices",
+        "name": "Logitech",
+        "url": "https://buy.logitech.com/store/logieu/en_GB/custom/pbPage.student-discount",
+        "description": "Students can get 25% off purchases at Logitech.com"
+    },
+    {
+        "category": "Productivity apps",
+        "name": "Notion",
+        "url": "https://www.notion.so/product/notion-for-education",
+        "description": "Unlimited pages & blocks, file uploads, and 30 day version history."
+    },
+    {
+        "category": "Productivity apps",
+        "name": "Evernote",
+        "url": "https://evernote.com/intl/es/unidays",
+        "description": "40% off on Evernote"
+    },
+    {
+        "category": "Productivity apps",
+        "name": "Microsoft Office 365",
+        "url": "https://www.microsoft.com/en-in/education/students",
+        "description": "Free for students"
+    },
+    {
+        "category": "Productivity apps",
+        "name": "Ulysses",
+        "url": "https://ulysses.app/students/",
+        "description": "$10.99 Per 6 Months"
+    },
+    {
+        "category": "Git tools",
+        "name": "Tower",
+        "url": "https://www.git-tower.com/education/windows",
+        "description": "Version control with git."
+    },
+    {
+        "category": "Git tools",
+        "name": "GitKraken PRO",
+        "url": "https://www.gitkraken.com/github-student-developer-pack",
+        "description": "Free via GitHub Student Developer Pack"
+    },
+    {
+        "category": "Design and modeling tools",
+        "name": "Sketch",
+        "url": "https://www.sketch.com/education/",
+        "description": "Get Sketch for free as a student"
+    },
+    {
+        "category": "Design and modeling tools",
+        "name": "Axure RP",
+        "url": "http://www.axure.com/edu",
+        "description": "Free Subscriptions for Students and Teachers"
+    },
+    {
+        "category": "Design and modeling tools",
+        "name": "Vertabelo",
+        "url": "https://my.vertabelo.com/sign-up/create-academic",
+        "description": "Free academic accounts for students"
+    },
+    {
+        "category": "Design and modeling tools",
+        "name": "Lucidchart",
+        "url": "https://www.lucidchart.com/pages/usecase/education",
+        "description": "Free professional software for DFDs, flowcharts, organizational charts, website wireframes, UML designs, mind maps, software prototypes, and many other diagram types (Use learner college student id to get unlimited access)"
+    },
+    {
+        "category": "Design and modeling tools",
+        "name": "Canva",
+        "url": "https://www.canva.com/education/students/",
+        "description": "Create amazing designs, documents and presentations in minutes for all your creative projects and studying needs."
+    },
+    {
+        "category": "Design and modeling tools",
+        "name": "Figma",
+        "url": "https://www.figma.com/education/",
+        "description": "Free as a student"
+    },
+    {
+        "category": "Design and modeling tools",
+        "name": "Autodesk Entertainment Creation Suite Ultimate",
+        "url": "https://www.autodesk.com/education/edu-software/overview",
+        "description": "One-year educational access to Autodesk products and services"
+    },
+    {
+        "category": "Game Development Tools",
+        "name": "Unity3D",
+        "url": "https://unity.com/products/unity-student",
+        "description": "Free for students"
+    },
+    {
+        "category": "Game Development Tools",
+        "name": "Unreal Game Engine",
+        "url": "https://www.unrealengine.com/students",
+        "description": "Free for students"
+    },
+    {
+        "category": "IDEs",
+        "name": "Bootstrap Studio",
+        "url": "https://bootstrapstudio.io/pages/student-license",
+        "description": "Free for students"
+    },
+    {
+        "category": "IDEs",
+        "name": "JetBrains Pack",
+        "url": "https://www.jetbrains.com/community/education/#students",
+        "description": "Free professional IDEs for C/C++/Python/Java/JS/PHP/Ruby/etc for students"
+    },
+    {
+        "category": "Visual Analytics",
+        "name": "CartoDB",
+        "url": "https://cartodb.com/solutions/education-and-research/",
+        "description": "Additional space & features for free accounts or 20% discount on paid accounts"
+    },
+    {
+        "category": "Visual Analytics",
+        "name": "Tableau Desktop",
+        "url": "https://www.tableau.com/academic/students",
+        "description": "One Year free Professional License for Students"
+    },
+    {
+        "category": "Visual Analytics",
+        "name": "SAS University Edition",
+        "url": "http://www.sas.com/en_us/software/university-edition.html",
+        "description": "Free for students"
+    },
+    {
+        "category": "Developer Services",
+        "name": "AWS Educate",
+        "url": "https://aws.amazon.com/education/awseducate/",
+        "description": "Free for students"
+    },
+    {
+        "category": "Developer Services",
+        "name": "Send Grid",
+        "url": "https://sendgrid.com/partner/github-education",
+        "description": "15K free emails/month via Github Student Developer Pack"
+    },
+    {
+        "category": "Developer Services",
+        "name": "Adobe Creative Cloud",
+        "url": "http://www.adobe.com/creativecloud/buy/students.html",
+        "description": "60% off for students"
+    },
+    {
+        "category": "Developer Services",
+        "name": "Azure",
+        "url": "https://azureforeducation.microsoft.com/en-us/Institutions",
+        "description": "Azure Dev Tools."
+    },
+    {
+        "category": "Entertainment",
+        "name": "YouTube Premium",
+        "url": "https://www.youtube.com/premium",
+        "description": "6,99 €/month for students."
+    },
+    {
+        "category": "Music",
+        "name": "Spotify",
+        "url": "https://www.spotify.com/student/",
+        "description": "5,99 €/month for students."
+    },
+    {
+        "category": "Music",
+        "name": "Apple Music",
+        "url": "https://support.apple.com/en-us/HT205928",
+        "description": "Discount for 4 years"
+    },
+    {
+        "category": "Music",
+        "name": "Ableton Live",
+        "url": "https://www.ableton.com/en/shop/education/#eligibility",
+        "description": "40% Discount for full time students "
+    },
+    {
+        "category": "Shipping",
+        "name": "FedEx",
+        "url": "http://www.fedex.com/kr_english/about/local/currentattractions/sdc.html",
+        "description": "Discount of 30% off a document with FedEx Envelop/Pak and 20% off a package with FedEx IP service"
+    },
+    {
+        "category": "Newspaper Subscription",
+        "name": "Economist",
+        "url": "https://subscribenow.economist.com/student",
+        "description": "Study smarter with 75% off"
+    },
+    {
+        "category": "Travel",
+        "name": "Interrail",
+        "url": "https://www.interrail.eu/es/interrail-passes/deals/interrail-youth-discounts",
+        "description": "Save money traveling through Europe"
+    },
+    {
+        "category": "Vehicles",
+        "name": "GM",
+        "url": "https://www.gmcollegeappreciation.com/vehicles/",
+        "description": "Discounts available on selected models"
+    },
+    {
+        "category": "Web Hosting",
+        "name": "Digital Ocean",
+        "url": "https://www.digitalocean.com/landing/do-for-higher-education",
+        "description": "Provides $200 in hosting credit."
+    },
+    {
+        "category": "Web Hosting",
+        "name": "RoseHosting",
+        "url": "https://www.rosehosting.com",
+        "description": "Offers a recurring 20% discount on all their managed Linux VPS and Shared hosting plans when paying monthly. Students can use the discount by applying the coupon code STUDENT20."
+    },
+    {
+        "category": "Domain Name",
+        "name": "NameCheap",
+        "url": "http://nc.me",
+        "description": "One year of free domain name registration on the .me TLD"
+    }
+]
