@@ -1,16 +1,16 @@
 # Discounts for Students
 
+* [Productivity apps](#productivity-apps)
+* [Entertainment](#entertainment)
+* [Music](#music)
 * [Collective discounts](#collective-discounts)
 * [Electronic devices](#electronic-devices)
-* [Productivity apps](#productivity-apps)
 * [Git tools](#git-tools)
 * [Design and modeling tools](#design-and-modeling-tools)
 * [Game Development Tools](#game-development-tools)
 * [IDEs](#ides)
 * [Visual Analytics](#visual-analytics)
 * [Developer Services](#developer-services)
-* [Entertainment](#entertainment)
-* [Music](#music)
 * [Shipping](#shipping)
 * [Newspaper Subscription](#newspaper-subscription)
 * [Travel](#travel)
@@ -18,17 +18,37 @@
 * [Web hosting](#web-hosting)
 * [Domain name](#domain-name)
 
+# Productivity apps
+
+* [Notion](https://www.notion.so/product/notion-for-education): Unlimited pages & blocks, file uploads, and 30 day version history.
+
+* [Evernote](https://evernote.com/intl/es/unidays): 40% off on Evernote
+
+* [Microsoft Office 365](https://www.microsoft.com/en-in/education/students): Free for students
+
+* [Ulysses](https://ulysses.app/students/): $10.99 Per 6 Months
+
+# Entertainment
+
+* [YouTube Premium](https://www.youtube.com/premium): 6,99 €⁠/⁠month for students.
+
+# Music
+
+* [Spotify](https://www.spotify.com/student/): 5,99 €/month for students.
+
+* [Apple Music](https://support.apple.com/en-us/HT205928): Discount for 4 years
+
+* [Ableton Live](https://www.ableton.com/en/shop/education/#eligibility): 40% Discount for full time students 
+
 # Collective discounts
 
 * [International Student Identity Card](https://www.isic.org/): Any full-time student over 12 years old qualifies for 42.000 discounts in 130 countries
 
 * [GitHub Student Developer Pack](https://education.github.com/): Discounts on several software products offered through Github
 
-* [AWS Educate](https://aws.amazon.com/education/awseducate/): credits to access AWS services for free. Free labs on services such as EC2, S3, and others
-
 * [Microsoft Education](https://www.microsoft.com/en-in/education/students): Free Microsoft Office 365 and other discounts on MS products
 
-* [Amazon Prime Student](https://www.amazon.com/Amazon-Student/b?node=668781011): a six-month trial that includes Free Two-Day Shipping, unlimited streaming of Amazon Prime movies and TV shows, unlimited photo storage with Amazon Prime Photos, 20% off pre-order and new release video games, exclusive deals and savings, and more! 50% off after the six-month trial period
+* [Amazon Prime Student](https://www.amazon.com/Amazon-Student/b?node=668781011): A six-month trial that includes Free Two-Day Shipping, unlimited streaming of Amazon Prime movies and TV shows, unlimited photo storage with Amazon Prime Photos, 20% off pre-order and new release video games, exclusive deals and savings, and more! 50% off after the six-month trial period
 
 # Electronic devices
 
@@ -41,16 +61,6 @@
 * [Lenovo](https://www.lenovo.com/es/es/registro-tienda-estudiantes/): Student discounts on laptops, tablets, and desktop computers.
 
 * [Logitech](https://buy.logitech.com/store/logieu/en_GB/custom/pbPage.student-discount): Students can get 25% off purchases at Logitech.com
-
-# Productivity apps
-
-* [Notion](https://www.notion.so/product/notion-for-education): Unlimited pages & blocks, file uploads, and 30 day version history.
-
-* [Evernote](https://evernote.com/intl/es/unidays): 40% off on Evernote
-
-* [Microsoft Office 365](https://www.microsoft.com/en-in/education/students): Free for students
-
-* [Ulysses](https://ulysses.app/students/): $10.99 Per 6 Months
 
 # Git tools
 
@@ -103,18 +113,6 @@
 * [Adobe Creative Cloud](http://www.adobe.com/creativecloud/buy/students.html): 60% off for students
 
 * [Azure](https://azureforeducation.microsoft.com/en-us/Institutions): Azure Dev Tools.
-
-# Entertainment
-
-* [YouTube Premium](https://www.youtube.com/premium): 6,99 €⁠/⁠month for students.
-
-# Music
-
-* [Spotify](https://www.spotify.com/student/): 5,99 €/month for students.
-
-* [Apple Music](https://support.apple.com/en-us/HT205928): Discount for 4 years
-
-* [Ableton Live](https://www.ableton.com/en/shop/education/#eligibility): 40% Discount for full time students 
 
 # Shipping
 

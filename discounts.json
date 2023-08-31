@@ -1,5 +1,61 @@
 [
     {
+        "category": "Productivity apps",
+        "name": "Notion",
+        "url": "https://www.notion.so/product/notion-for-education",
+        "description": "Unlimited pages & blocks, file uploads, and 30 day version history.",
+        "favicon": "https://www.notion.so/front-static/favicon.ico"
+    },
+    {
+        "category": "Productivity apps",
+        "name": "Evernote",
+        "url": "https://evernote.com/intl/es/unidays",
+        "description": "40% off on Evernote",
+        "favicon": "https://evernote.com/favicon.ico"
+    },
+    {
+        "category": "Productivity apps",
+        "name": "Microsoft Office 365",
+        "url": "https://www.microsoft.com/en-in/education/students",
+        "description": "Free for students",
+        "favicon": "https://www.microsoft.com/favicon.ico?v2"
+    },
+    {
+        "category": "Productivity apps",
+        "name": "Ulysses",
+        "url": "https://ulysses.app/students/",
+        "description": "$10.99 Per 6 Months",
+        "favicon": "https://ulysses.app/assets/images/favicon/apple-touch-icon.png?v1"
+    },
+    {
+        "category": "Entertainment",
+        "name": "YouTube Premium",
+        "url": "https://www.youtube.com/premium",
+        "description": "6,99 €/month for students.",
+        "favicon": "https://www.youtube.com/s/desktop/d7216197/img/favicon_144x144.png"
+    },
+    {
+        "category": "Music",
+        "name": "Spotify",
+        "url": "https://www.spotify.com/student/",
+        "description": "5,99 €/month for students.",
+        "favicon": "https://wwwmarketing.scdn.co/img/apple-touch-icon-180x180.png"
+    },
+    {
+        "category": "Music",
+        "name": "Apple Music",
+        "url": "https://support.apple.com/en-us/HT205928",
+        "description": "Discount for 4 years",
+        "favicon": "https://support.apple.com/favicon.ico"
+    },
+    {
+        "category": "Music",
+        "name": "Ableton Live",
+        "url": "https://www.ableton.com/en/shop/education/#eligibility",
+        "description": "40% Discount for full time students ",
+        "favicon": "https://cdn-resources.ableton.com/80bA26cPQ1hEJDFjpUKntxfqdmG3ZykO/static/images/favicon.f83afbda6c78.ico"
+    },
+    {
         "category": "Collective discounts",
         "name": "International Student Identity Card",
         "url": "https://www.isic.org/",
@@ -24,7 +80,7 @@
         "category": "Collective discounts",
         "name": "Amazon Prime Student",
         "url": "https://www.amazon.com/Amazon-Student/b?node=668781011",
-        "description": "a six-month trial that includes Free Two-Day Shipping, unlimited streaming of Amazon Prime movies and TV shows, unlimited photo storage with Amazon Prime Photos, 20% off pre-order and new release video games, exclusive deals and savings, and more! 50% off after the six-month trial period",
+        "description": "A six-month trial that includes Free Two-Day Shipping, unlimited streaming of Amazon Prime movies and TV shows, unlimited photo storage with Amazon Prime Photos, 20% off pre-order and new release video games, exclusive deals and savings, and more! 50% off after the six-month trial period",
         "favicon": "https://www.amazon.com/favicon.ico"
     },
     {
@@ -61,34 +117,6 @@
         "url": "https://buy.logitech.com/store/logieu/en_GB/custom/pbPage.student-discount",
         "description": "Students can get 25% off purchases at Logitech.com",
         "favicon": "http://www.logitech.com/images/favicons/logi-favicon_32x32_blue.png"
-    },
-    {
-        "category": "Productivity apps",
-        "name": "Notion",
-        "url": "https://www.notion.so/product/notion-for-education",
-        "description": "Unlimited pages & blocks, file uploads, and 30 day version history.",
-        "favicon": "https://www.notion.so/front-static/favicon.ico"
-    },
-    {
-        "category": "Productivity apps",
-        "name": "Evernote",
-        "url": "https://evernote.com/intl/es/unidays",
-        "description": "40% off on Evernote",
-        "favicon": "https://evernote.com/favicon.ico"
-    },
-    {
-        "category": "Productivity apps",
-        "name": "Microsoft Office 365",
-        "url": "https://www.microsoft.com/en-in/education/students",
-        "description": "Free for students",
-        "favicon": "https://www.microsoft.com/favicon.ico?v2"
-    },
-    {
-        "category": "Productivity apps",
-        "name": "Ulysses",
-        "url": "https://ulysses.app/students/",
-        "description": "$10.99 Per 6 Months",
-        "favicon": "https://ulysses.app/assets/images/favicon/apple-touch-icon.png?v1"
     },
     {
         "category": "Git tools",
@@ -222,34 +250,6 @@
         "url": "https://azureforeducation.microsoft.com/en-us/Institutions",
         "description": "Azure Dev Tools.",
         "favicon": "https://azureforeducation.microsoft.com/Library/Main/Images/favicon.ico"
-    },
-    {
-        "category": "Entertainment",
-        "name": "YouTube Premium",
-        "url": "https://www.youtube.com/premium",
-        "description": "6,99 €/month for students.",
-        "favicon": "https://www.youtube.com/s/desktop/d7216197/img/favicon_144x144.png"
-    },
-    {
-        "category": "Music",
-        "name": "Spotify",
-        "url": "https://www.spotify.com/student/",
-        "description": "5,99 €/month for students.",
-        "favicon": "https://wwwmarketing.scdn.co/img/apple-touch-icon-180x180.png"
-    },
-    {
-        "category": "Music",
-        "name": "Apple Music",
-        "url": "https://support.apple.com/en-us/HT205928",
-        "description": "Discount for 4 years",
-        "favicon": "https://support.apple.com/favicon.ico"
-    },
-    {
-        "category": "Music",
-        "name": "Ableton Live",
-        "url": "https://www.ableton.com/en/shop/education/#eligibility",
-        "description": "40% Discount for full time students ",
-        "favicon": "https://cdn-resources.ableton.com/80bA26cPQ1hEJDFjpUKntxfqdmG3ZykO/static/images/favicon.f83afbda6c78.ico"
     },
     {
         "category": "Shipping",
