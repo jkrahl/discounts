@@ -207,7 +207,7 @@
         "name": "Send Grid",
         "url": "https://sendgrid.com/partner/github-education",
         "description": "15K free emails/month via Github Student Developer Pack",
-        "favicon": "https://education.github.com/favicon.ico"
+        "favicon": "https://sendgrid.com/favicon.ico"
     },
     {
         "category": "Developer Services",
@@ -256,7 +256,7 @@
         "name": "FedEx",
         "url": "http://www.fedex.com/kr_english/about/local/currentattractions/sdc.html",
         "description": "Discount of 30% off a document with FedEx Envelop/Pak and 20% off a package with FedEx IP service",
-        "favicon": "https://www.fedex.com/content/dam/fedex-com/logos/logo.png"
+        "favicon": "https://www.fedex.com/etc.clientlibs/designs/fedex-common/images/resources/fx-favicon.ico"
     },
     {
         "category": "Newspaper Subscription",
