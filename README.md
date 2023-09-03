@@ -20,7 +20,7 @@
 
 # Productivity apps
 
-* [Notion](https://www.notion.so/product/notion-for-education): Unlimited pages & blocks, file uploads, and 30 day version history.
+* [Notion](https://www.notion.so/product/notion-for-education): Notion Plus free for students.
 
 * [Evernote](https://evernote.com/intl/es/unidays): 40% off on Evernote
 
